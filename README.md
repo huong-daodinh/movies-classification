@@ -10,7 +10,9 @@ The script can be excuted directly on Google Colab.
 
 ### Member
 
-Me 
+Nguyễn Anh Thắng
+Đào Đình Hưởng
+Trần Quốc Hưng
 
 ### Libraries used
 
