@@ -2,15 +2,15 @@
 
 Github link: https://github.com/huong-daodinh/movies-classification.git
 
-Colab notebook: 
-
-Report: 
-
 The script can be excuted directly on Google Colab.
 
 ### Member
 
-Me 
+Nguyễn Anh Thắng
+
+Đào Đình Hưởng
+
+Trần Quốc Hưng
 
 ### Libraries used
 
